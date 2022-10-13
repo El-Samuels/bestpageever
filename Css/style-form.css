@@ -1,0 +1,33 @@
+body{
+   background-color: rgb(33, 0, 181);
+}
+
+.thanks{
+   text-align: center;
+   font-family: Arial, Helvetica;
+}
+
+.thanks-con{
+position: relative;
+top: 200px;
+}
+
+.link-back{
+   font-family: 'open sans';
+   position: relative;
+   top: 400px;
+   left: 600px;
+   display: inline-block;
+   color: blueviolet;
+}
+
+.link{
+   background-color: rgb(68, 9, 170);
+   border-style: solid;
+   border-radius: 5px;
+}
+
+.link:hover{
+   background-color: rgb(74, 0, 139);
+   cursor: pointer;
+}
